@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 // NPM start
 app.get("/", (req, res) => {
-  res.send("Hello, ITX");
+  res.send("Hello, ITXI");
 });
 
 app.listen(port, async () => {

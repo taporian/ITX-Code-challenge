@@ -1,4 +1,4 @@
-# ITX-Code-challenge
+# ITXI-Code-challenge
 
 Railway Stations Query using Overpass API
 This Node.js script is designed to query railway stations in Germany using the Overpass API and save the data to a JSON file.
